@@ -2,7 +2,7 @@
 - 👀 I’m interested in iot projects using raspberry pi, bash/shell script e linux in general.
 
 <!-- This file is based on the following repository  https://github.com/gautamkrishnar/blog-post-workflow -->
-4
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
