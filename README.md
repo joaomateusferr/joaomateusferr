@@ -6,11 +6,11 @@
 ### 📺 Latest YouTube Videos explaining complex things
 
 <!-- YOUTUBE:START -->
+- [Entendendo as diferenças entre HDMI 2.0, 2.1 e 2.1a](https://www.youtube.com/watch?v=g31G7Tsq8x8)
 - [Entendendo a nomenclatura das placas de vídeo Nvidia](https://www.youtube.com/watch?v=X5ZcxP2IEDM)
 - [Porque soquetes mudam?](https://www.youtube.com/watch?v=FjZaGaC_M0o)
 - [O que é o efeito Ghosting no teclado?](https://www.youtube.com/watch?v=jjTn2l_Ne_Q)
 - [Entenda a diferença entre as partições gpt e mbr](https://www.youtube.com/watch?v=UNVRKBF4Iz4)
-- [Quais as diferenças entes os tipos de ssd m2?](https://www.youtube.com/watch?v=MRkykAv9YaI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/technojohn)
